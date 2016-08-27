@@ -1,2 +1,3 @@
 # go-sort
-Sorting algorithms in Go.
+
+Implementations of quicksort, heap sort and merge sort that I wrote to learn Go.
